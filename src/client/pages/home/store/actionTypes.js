@@ -1,0 +1,1 @@
+export const SAVE_HOME_LIST = 'SAVE_HOME_LIST'
